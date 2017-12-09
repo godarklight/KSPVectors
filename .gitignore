@@ -1,0 +1,4 @@
+*.dll
+KSPVectors/bin
+KSPVectors/obj
+*.userprefs

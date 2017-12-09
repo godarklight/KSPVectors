@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSPVectors", "KSPVectors\KSPVectors.csproj", "{9F60243E-3512-4EF8-916D-2013E3B4C3E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F60243E-3512-4EF8-916D-2013E3B4C3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F60243E-3512-4EF8-916D-2013E3B4C3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F60243E-3512-4EF8-916D-2013E3B4C3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F60243E-3512-4EF8-916D-2013E3B4C3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
